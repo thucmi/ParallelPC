@@ -1,0 +1,16 @@
+{
+    "contents" : "citHeader(\"To cite ParallelPC in publications use:\")\ncitEntry(entry = \"Article\",\n  title        = \"ParallelPC: an R package for efficient constraint based causal exploration\",\n  author       = personList(as.person(\"Thuc Duy Le\"),\n                   as.person(\"Tao Hoang\"),\n                   as.person(\"Jiuyong Li\"),\n                   as.person(\"Lin Liu\"),\n                   as.person(\"Shu Hu\")),\n  journal      = \"rXiv preprint arXiv\",\n  year         = \"2015\",\n  volume       = \"1510\",\n  number       = \"03042\",\n  pages        = \"\",\n  url          = \"http://arxiv.org/pdf/1510.03042.pdf\",\n\n  textVersion  =\n  paste(\"Thuc Duy Le, Tao Hoang, Jiuyong Li, Lin Liu, Shu Hu (2015).\",\n        \"ParallelPC: an R package for efficient constraint based causal exploration.\",\n        \"arXiv preprint arXiv:1510.03042.\",\n        \"http://arxiv.org/pdf/1510.03042.pdf.\")\n)\n\n",
+    "created" : 1446179967964.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2481638574",
+    "id" : "7108F8FC",
+    "lastKnownWriteTime" : 1446180278,
+    "path" : "D:/Dropbox-letd/Dropbox/PROJECTS-WORKING/Software-Paper-ParallelPC/PackagePCCIwithPCSelect/ParallelPC/inst/CITATION",
+    "project_path" : "inst/CITATION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

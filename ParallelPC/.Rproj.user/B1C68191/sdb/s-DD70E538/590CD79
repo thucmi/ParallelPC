@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: ParallelPC\nType: Package\nTitle: Paralellised versions of constraint based causal discovery algorithms\nVersion: 1.0\nDate: 2015-04-24\nAuthor: Thuc Duy Le,Tao Hoang and Shu Hu\nMaintainer: Thuc Duy Le <Thuc.Le@unisa.edu.au>\nSuggests: bnlearn, pcalg, parallel, Rgraphviz\nDescription: A fast PC algorithm for high dimensional causal discovery with multi-core PCs\nLicense: GPL-2\n\n",
+    "created" : 1433986054735.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3224274663",
+    "id" : "590CD79",
+    "lastKnownWriteTime" : 1433986132,
+    "path" : "C:/Users/huysy011/Desktop/Thuc_paper/PackagePCCIwithPCSelect/PackagePCCIwithPCSelect/ParallelPC/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}

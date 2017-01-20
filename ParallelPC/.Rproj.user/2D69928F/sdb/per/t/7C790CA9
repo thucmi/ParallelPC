@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: ParallelPC\nType: Package\nTitle: Paralellised Versions of Constraint Based Causal Discovery Algorithms\nVersion: 1.2\nDate: 2015-10-30\nAuthor: Thuc Duy Le, Tao Hoang, Shu Hu, and Liang Zhang\nMaintainer: Thuc Duy Le <Thuc.Le@unisa.edu.au>\nImports: methods\nSuggests: bnlearn, pcalg, parallel, Rgraphviz\nDescription:  Parallelise constraint based causality discovery and causal inference methods. The parallelised algorithms in the package will generate the same results as that of the 'pcalg' package but will be much more efficient. \nLicense: GPL(>=2)\n\n",
+    "created" : 1439264252093.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1229345913",
+    "id" : "7C790CA9",
+    "lastKnownWriteTime" : 1451524813,
+    "path" : "~/Dropbox/PROJECTS-WORKING/JMLR-ParallelPC/PackagePCCIwithPCSelect/ParallelPC/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}
